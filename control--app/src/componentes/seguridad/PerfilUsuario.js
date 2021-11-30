@@ -7,7 +7,7 @@ import reactFoto from "../../logo.svg";
 import { v4 as uuidv4 } from "uuid";
 import ImageUploader from "react-images-upload";
 import { obtenerDataImagen } from "../../actions/ImageAction";
-
+//PerfilUsuario
 const PerfilUsuario = () => {
   const [{ sesionUsuario }, dispatch] = useStateValue();
   const [usuario, setUsuario] = useState({
