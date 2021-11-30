@@ -1,0 +1,14 @@
+C:\ProyectoLead\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.deps.json
+C:\ProyectoLead\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.dll
+C:\ProyectoLead\Aplicacion\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\ProyectoLead\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\ProyectoLead\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\ProyectoLead\Aplicacion\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\ProyectoLead\Aplicacion\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\ProyectoLead\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csprojAssemblyReference.cache
+C:\ProyectoLead\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfoInputs.cache
+C:\ProyectoLead\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.AssemblyInfo.cs
+C:\ProyectoLead\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CoreCompileInputs.cache
+C:\ProyectoLead\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.csproj.CopyComplete
+C:\ProyectoLead\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.dll
+C:\ProyectoLead\Aplicacion\obj\Debug\netcoreapp3.1\Aplicacion.pdb
